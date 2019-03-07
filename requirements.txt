@@ -1,0 +1,9 @@
+tensorflow
+numpy
+scikit-learn
+click
+tqdm
+PyYAML
+PyWavelets
+pandas
+click
